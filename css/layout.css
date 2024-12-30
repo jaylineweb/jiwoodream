@@ -115,8 +115,9 @@
 #contactForm{}
 #contactForm .form_texts{}
 #contactForm .form_texts .form_title{}
-#contactForm .form_texts .form_title h4{}
-#contactForm .form_texts .form_title h4 .icon_pilsu{}
+#contactForm .form_texts .form_title h4{display:inline-block;position:relative;padding-right:20px;font-size:18px;font-weight:600;color:#222;}
+#contactForm .form_texts .form_title h4 .icon_pilsu{width:auto;height:auto;color:#583cf2;background:none;}
+#contactForm .form_texts .form_title h4 .icon_pilsu:after{content:'*';}
 
 /* footer */
 #footer{padding-top:50px;padding-bottom:100px;}
