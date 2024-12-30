@@ -108,7 +108,7 @@
 .video_clips .resp_contents_wrap .text_area .kakao_btn .kakao_text{color:#ffffff;}
 .video_clips video{position:absolute;top:0;right:0;bottom:0;left:0;z-index: -1;width:100%;height:100%;margin:auto;object-fit:cover;}
 
-.service_contact{padding:40px 0;}
+.service_contact{padding:40px 0;background-color:rgb(255, 255, 255);background-image:url(../images/bg_white_per0.png), url(../images/main/file/594467807.jpg);}
 .service_contact .inner{width:960px;margin-right:auto;margin-left:auto;}
 .service_contact .inner .service_title{font-size:42px;font-family:'Montserrat', "Noto Sans KR", "Malgun Gothic", sans-serif;font-weight:700;color:#ffffff;}
 
