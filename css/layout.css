@@ -6,6 +6,7 @@
 }
 
 
+
 .wrapper{position:relative; width:100%;}
 /* .wrapper:before{display:block; opacity:0.5; position:absolute; top:0; left:0; z-index:3; width:100%; height:100%; background:url(../images/common/jiwoodream.site.png) no-repeat; background-size:cover;}
  */
@@ -118,6 +119,7 @@
 #contactForm .form_texts .form_title h4{display:inline-block;position:relative;padding-right:20px;font-size:18px;font-weight:600;color:#222;}
 #contactForm .form_texts .form_title h4 .icon_pilsu{width:auto;height:auto;color:#583cf2;background:none;}
 #contactForm .form_texts .form_title h4 .icon_pilsu:after{content:'*';}
+#contactForm input{display:inline-block;height:60px;width:100%;padding:0 40px 0 20px;box-sizing:border-box;border:1px rgba(0,0,0,0.2) solid;border-radius:10px;border-color:rgba(150,150,150,.2);background:rgba(230,230,230,.2) !important;font-size:15px;font-family:'Gugi';font-weight:400;color:#333;line-height:32px;}
 
 /* footer */
 #footer{padding-top:50px;padding-bottom:100px;}
