@@ -91,7 +91,7 @@
 .porfolio_works .works_list .work_item .work_text{padding:0 17px 20px 0;font-family:"Noto Sans KR";font-size:17px;line-height:64px;letter-spacing:-0.065em;color:#000000;}
 
 .video_clips{position:relative;height:930px;}
-.video_clips .inner{padding-right:10px;padding-left:10px;}
+.video_clips .inner{padding:400px 10px 150px 10px;}
 .video_clips .clip_text{}
 .video_clips video{position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;margin:auto;object-fit:cover;}
 /* footer */
