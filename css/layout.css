@@ -1,4 +1,11 @@
 @charset "UTF-8";
+
+@keyframes mask-slide-bottom {
+	0%{transform:translateY(130vh);}
+	100%{transform:translateY(0);}
+}
+
+
 .wrapper{position:relative; width:100%;}
 /* .wrapper:before{display:block; opacity:0.5; position:absolute; top:0; left:0; z-index:3; width:100%; height:100%; background:url(../images/common/jiwoodream.site.png) no-repeat; background-size:cover;}
  */
@@ -100,5 +107,10 @@
 .video_clips .resp_contents_wrap .text_area .kakao_btn{display:inline-block;min-height: 35px;padding:10px 30px;border:1px solid #ffffff;border-radius:30px 2px;background:transparent;line-height:1.4;font-size:25px;font-family:'Montserrat';font-weight:300;}
 .video_clips .resp_contents_wrap .text_area .kakao_btn .kakao_text{color:#ffffff;}
 .video_clips video{position:absolute;top:0;right:0;bottom:0;left:0;z-index: -1;width:100%;height:100%;margin:auto;object-fit:cover;}
+
+.service_contact{padding:40px 0;}
+.service_contact .inner{width:960px;margin-right:auto;margin-left:auto;}
+.service_contact .inner .service_title{font-size:42px;font-family:'Montserrat', "Noto Sans KR", "Malgun Gothic", sans-serif;font-weight:700;}
+
 /* footer */
-#footer{}
+#footer{padding-top:50px;padding-bottom:100px;}
