@@ -44,7 +44,7 @@
 .slide_contents .slide_list .slide_item{height:840px;}
 .slide_contents .slide_list .slide_item > a{display:block; position:relative;}
 .slide_contents .slide_list .slide_item > div{height: 100%;background-size:cover;}
-.slide_contents .slide_list .slide_item > div:before{display:block;position:absolute;top:0;left:0;width:100%;height:100%;z-index: -1;background:rgba(0,0,0,0.5);}
+.slide_contents .slide_list .slide_item > div:before{display:block;position:absolute;top:0;left:0;width:100%;height:100%;z-index: 0;background:rgba(0,0,0,0.5);}
 .slide_contents .slide_list .slide_item .slide_text{/* position:absolute; */top:0;left:0;padding:296px 20px 150px 195px;}
 .slide_contents .slide_list .slide_item .slide_text .small_text{position:relative; color:#ffffff; font-size:23px;}
 .slide_contents .slide_list .slide_item .slide_text .large_text{position:relative; font-size:105px;}
