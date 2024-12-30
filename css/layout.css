@@ -1,4 +1,4 @@
-@charset 'UTF-8';
+@charset 'utf-8';
 
 @keyframes mask-slide-bottom {
 	0%{transform:translateY(130vh);}
