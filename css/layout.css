@@ -110,7 +110,7 @@
 
 .service_contact{padding:40px 0;}
 .service_contact .inner{width:960px;margin-right:auto;margin-left:auto;}
-.service_contact .inner .service_title{font-size:42px;font-family:'Montserrat', "Noto Sans KR", "Malgun Gothic", sans-serif;font-weight:700;}
+.service_contact .inner .service_title{font-size:42px;font-family:'Montserrat', "Noto Sans KR", "Malgun Gothic", sans-serif;font-weight:700;color:#ffffff;}
 
 /* footer */
 #footer{padding-top:50px;padding-bottom:100px;}
